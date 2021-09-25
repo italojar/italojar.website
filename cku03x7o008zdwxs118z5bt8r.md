@@ -8,7 +8,7 @@ Lo que me motiva a escribir este **blog** es tener *posts* a modo de apuntes, lo
 pueda volver a consultar siempre que quiera y también poder compartirlos con personas
 que están estudiando programación al igual que yo y puedan aprovechar este conocimiento. Me gustaría ayudar a que se comprendan conceptos "nuevos" de una manera clara, sencilla y correcta, y puedan ser aplicables de manera rápida, para interiorizarlos con un ejemplo. <br />
 
-En lo que me gusta invertir mi tiempo libre es en un negocio personal que estamos creando con dos amigos, ahora también en escribir en el blog, hacer deporte,  ver una buena película o una serie, bailar (no soy bueno pero paso desapercibido). Me gusta el deporte en general, especialmente el futbol, pero sin dejar de lado la velocidad como las motos, los coches y el ciclismo.  Amante del Universo 🌌, me gusta jugar a adivinar lo que hay en él y lo que representamos. 
+En lo que me gusta invertir mi tiempo libre es en pasar tiempo con mi familia, en un negocio personal que estamos creando con dos amigos, ahora también en escribir en el blog, hacer deporte, ver una buena película o una serie, bailar (no soy bueno pero paso desapercibido). Me gusta el deporte en general, especialmente el futbol, pero sin dejar de lado la velocidad como las motos, los coches y el ciclismo.  Amante del Universo 🌌, me gusta jugar a adivinar lo que hay en él y lo que representamos. 
 
 ![astrounat in the ocean.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1632591119768/HzgezMZVd.png) [`Cuadro del astronauta columpiándose sobre La Luna, que me pintó con mucho amor una pedazo de artista, pronto dejaré su link por aquí`] 
 
