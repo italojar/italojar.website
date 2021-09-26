@@ -2,7 +2,7 @@
 
 Hola 🙋‍♂️ espero que estés bien, soy **Italo Ricardo Jaramillo Armijos**, *futuro* **programador**/**desarrollador** de software 👨‍💻 y vivo en Madrid. <br />
 
-Me gradué como Técnico en Radiodiagnóstico ⚡, soy una persona **autodidacta** y apasionada por las nuevas tecnologías, motivado por ello actualmente me encuentro cursando el segundo año de **Desarrollo de Aplicaciones Web** 🖥🖱en la tarde, donde desarrollamos aplicaciones Web en Cliente-Servidor con con tecnologías como HTML5, CSS3, JavaScript y Java (también trabajaremos con SpringBoot y Angular) para después desplegarlas en un servidor; mientras que por la mañana, me encuentro realizando prácticas en empresa 👨‍💼💼, donde se desarrollan aplicaciones móviles Android 📲. <br />
+Me gradué como Técnico en Radiodiagnóstico ⚡, soy una persona **autodidacta** y apasionada por las nuevas tecnologías, motivado por ello actualmente me encuentro cursando el segundo año de **Desarrollo de Aplicaciones Web** 🖥🖱en la tarde, donde desarrollamos aplicaciones Web en Cliente-Servidor con tecnologías como HTML5, CSS3, JavaScript y Java (también trabajaremos con SpringBoot y Angular) para después desplegarlas en un servidor; mientras que por la mañana, me encuentro realizando prácticas en empresa 👨‍💼💼, donde se desarrollan aplicaciones móviles Android 📲. <br />
 
 Lo que me motiva a escribir este **blog** es tener *posts* a modo de apuntes, los cuales 
 pueda volver a consultar siempre que quiera y también poder compartirlos con personas
