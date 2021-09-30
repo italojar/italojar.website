@@ -14,14 +14,11 @@ En lo que me gusta invertir mi tiempo libre es en pasar tiempo con mi familia �
 ![astrounat in the ocean.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1632591119768/HzgezMZVd.png) [`Cuadro del astronauta columpiándose sobre La Luna, que me pintó con mucho amor una pedazo de artista, pronto dejaré su link por aquí`] 
 
 Agradezco tu interés por llegar hasta aquí 🤗, puedes contactar conmigo a través de: <br/>
-- [Correo:](jaramilloarmijositalo@gmail.com)
+- Correo:
+jaramilloarmijositalo@gmail.com
 
 
-```
-jaramilloarmijositalo@gmail.com 
-``` 
-
-- [LinkedIn:](https://www.linkedin.com/in/italo-ricardo-jaramillo-armijos-3b0b68202) 
+- [LinkedIn](https://www.linkedin.com/in/italo-ricardo-jaramillo-armijos-3b0b68202) 
 - [Instagram](https://www.instagram.com/italo.jar/)
 
 **Cosas que te pueden interesar**: 
